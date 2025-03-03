@@ -1,6 +1,4 @@
-#
-#studentScore = input( "your score is:")
-#if studentScore == 90:print("A+") this is the work i did
+
 
 #-----------------------------------------------------------------------------
 # Name: student grading       Enhanced New File (enhancedNewFile.py)
@@ -13,7 +11,8 @@
 # Updated:     28-Febuary-2025
 #----------------------------------------------------------------
 
-
+#studentScore = input( "your score is:")
+#if studentScore == 90:print("A+") this is the work I did
 
 studentScore = int(input("Your score is??!!:"))
 if studentScore >= 61:
