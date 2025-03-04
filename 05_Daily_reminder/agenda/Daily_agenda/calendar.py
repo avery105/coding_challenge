@@ -10,7 +10,7 @@
 # Updated:     28-Febuary-2025
 #----------------------------------------------------------------
 
-#Ask the user to enter the current day of the week (e.g., "Monday") and ttore the day in a variable.   The user input will be changed to lower case text.
+#Ask the user to enter the current day of the week (e.g., "Monday") and tsore the day in a variable.   The user input will be changed to lower case text.
 dayOftheweek = input("What day of the week is it?: ").lower()
 
 #once you respond the code will identify what day you chose and will give you a response.

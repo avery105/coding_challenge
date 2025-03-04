@@ -11,7 +11,7 @@
 # Created:     28-Febuary-2025
 # Updated:     28-Febuary-2025
 #----------------------------------------------------------------
-
+#this is my attempt at creating a piece of code that will react to the weather via input.
 
 yourTemperature=int(input("What is the current temperature in Canada:"))
 if yourTemperature >=49:

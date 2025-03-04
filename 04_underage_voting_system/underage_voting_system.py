@@ -11,7 +11,7 @@
 # Updated:     28-Febuary-2025
 #----------------------------------------------------------------
 
-
+#I made a voting system but if you are under 18 you will not be allowed to proceed.
 
 
 print("Welcome to the Underage Voting System!")
