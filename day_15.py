@@ -1,5 +1,5 @@
 counter = 0
-while counter < 30:
+while counter < 7:
   print (counter)
-  counter += 6
+  counter += 1
   
