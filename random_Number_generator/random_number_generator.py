@@ -1,4 +1,13 @@
-#while True:
+#Name: remove
+#list
+#Enhanced
+#New
+#File(enhancedNewFile.py)
+# Purpose:  randomly generate a number.
+# 2. Store the score in a variable.
+# 3. Use conditional statements to print the grade based on the score
+# Author:    Jayden
+
 #myNumber= int(input("what number am I thinking of?:"))
 import random
 randint = random.randint(1, 10)
