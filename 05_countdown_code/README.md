@@ -1,0 +1,1 @@
+#it will aks you what number the code is thinking of and if you get it wrong it will continue unti you get the answer correct

@@ -1,0 +1,1 @@
+#I made a code that will get rid of the number to and it will also add the numbers 6,7

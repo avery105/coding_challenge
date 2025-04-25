@@ -17,4 +17,4 @@ while counter < 7:
 
 user_exit = "no"  # Changed the variable name to avoid using the reserved word 'exit'
 while user_exit != "yes":
-    user_exit = input("Do you really want to exit? (yes/no) ").lower()
+    user_exit = input("Do you really want to exit? (yes/no)").lower()

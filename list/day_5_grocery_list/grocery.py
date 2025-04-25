@@ -1,7 +1,6 @@
 -----------------------------------------------------------------------------
-# Name: student grading       Enhanced New File (enhancedNewFile.py)
-# Purpose:   . Ask the user to enter their score (out of 100).
-# 2. Store the score in a variable.
+# Name:grocery list       Enhanced New File (enhancedNewFile.py)
+# Purpose:   . make a variable called fruit and add more groceries to the variable
 # 3. Use conditional statements to print the grade based on the score
 # Author:      Jayden
 

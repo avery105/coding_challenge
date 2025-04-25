@@ -1,4 +1,4 @@
------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------
 # Name: student grading       Enhanced New File (enhancedNewFile.py)
 # Purpose:   . Ask the user to enter their score (out of 100).
 # 2. Store the score in a variable.
