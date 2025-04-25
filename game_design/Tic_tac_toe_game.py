@@ -1,5 +1,13 @@
 # import os
-
+#-----------------------------------------------------------------------------
+# Name: tic-tac-toe       Enhanced New File (enhancedNewFile.py)
+# Purpose:   to make the board game tic-tac-toe
+#1 make a game
+# Author:      Jayden
+#
+# Created:     23-April-2025
+# Updated:     25-April-2025
+#----------------------------------------------------------------
 # 🔁 Alternates between 'X' and 'O' based on turn number
 def check_turn(turn):
     return 'X' if turn % 2 == 0 else 'O'
