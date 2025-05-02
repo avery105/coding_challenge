@@ -1,0 +1,1 @@
+#this code will greet three people's name at once
